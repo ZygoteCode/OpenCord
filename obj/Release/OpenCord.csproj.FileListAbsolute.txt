@@ -1,0 +1,50 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\OpenCord.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\OpenCord.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\DotNetZip.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\websocket-sharp.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\DotNetZip.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\DotNetZip.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\Newtonsoft.Json.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.csproj.SuggestedBindingRedirects.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\LegitHttpServer.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\OpenCord.exe.config
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\OpenCord.exe
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\DotNetZip.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\Newtonsoft.Json.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\DotNetZip.pdb
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\DotNetZip.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\Newtonsoft.Json.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.Properties.Resources.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.csproj.GenerateResource.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.csproj.CopyComplete
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\OpenCord\OpenCord\obj\Release\OpenCord.exe
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\bin\Release\OpenCord.exe.config
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\bin\Release\OpenCord.exe
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\bin\Release\DotNetZip.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\bin\Release\Newtonsoft.Json.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\bin\Release\DotNetZip.pdb
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\bin\Release\DotNetZip.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\bin\Release\Newtonsoft.Json.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\obj\Release\OpenCord.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\obj\Release\OpenCord.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\obj\Release\OpenCord.Properties.Resources.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\obj\Release\OpenCord.csproj.GenerateResource.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\obj\Release\OpenCord.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\obj\Release\OpenCord.csproj.CopyComplete
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\Personal Projects\Cool but old Web Projects\OpenCord\OpenCord\obj\Release\OpenCord.exe
